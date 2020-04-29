@@ -12,6 +12,8 @@ We use embeddings of existing methods as input to our framework and get a new ra
 
 # Baselines
 BRPMF
+
 Caser
+
 SLIM
 
